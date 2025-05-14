@@ -34,7 +34,7 @@ Configuration: Dropout=False, Aug=False, Weight Decay=0.0
 [Epoch 29] Train Loss: 0.6978, Acc: 0.7598 | Test Loss: 1.2190, Acc: 0.5743
 [Epoch 30] Train Loss: 0.6719, Acc: 0.7716 | Test Loss: 1.2383, Acc: 0.5809
 ```
-![image]("./A.png")
+![Image](https://github.com/user-attachments/assets/10f7571a-a648-485b-98f0-d4f6a3220bc2)
 ((0.6719401271282872, 1.2383258490805413), (0.7716, 0.5809))
 
 ## Experiment B: Dropout only
@@ -73,7 +73,7 @@ Configuration: Dropout=True, Aug=False, Weight Decay=0.0
 [Epoch 29] Train Loss: 1.1043, Acc: 0.6028 | Test Loss: 1.3669, Acc: 0.5312
 [Epoch 30] Train Loss: 1.1168, Acc: 0.5942 | Test Loss: 1.2057, Acc: 0.5647
 ```
-![image]("./B.png")
+![Image](https://github.com/user-attachments/assets/7563d2f8-bb65-476c-89b3-acc3aee4ffa0)
 ((1.1168080304242387, 1.205691329233206), (0.5942, 0.5647))
 
 ## Experiment C: Data Augmentation only
@@ -112,7 +112,7 @@ Configuration: Dropout=False, Aug=True, Weight Decay=0.0
 [Epoch 29] Train Loss: 0.9398, Acc: 0.6620 | Test Loss: 1.5337, Acc: 0.4892
 [Epoch 30] Train Loss: 0.9377, Acc: 0.6668 | Test Loss: 1.7948, Acc: 0.4768
 ```
-![image]("./C.png")
+![Image](https://github.com/user-attachments/assets/b5e2720a-4d61-4c32-a699-f88968d73bcd)
 
 
 ## Experiment D: Dropout + Augmentation + Weight Decay
@@ -151,4 +151,5 @@ Configuration: Dropout=True, Aug=True, Weight Decay=0.0001
 [Epoch 29] Train Loss: 1.2630, Acc: 0.5470 | Test Loss: 1.2533, Acc: 0.5345
 [Epoch 30] Train Loss: 1.2271, Acc: 0.5600 | Test Loss: 1.3961, Acc: 0.5021
 ```
-![image]("./D.png")
+![Image](https://github.com/user-attachments/assets/d92e9e04-ba27-4fa5-be36-e4b9148997c4)
+((1.2271296019795574, 1.3961455168997405), (0.56, 0.5021))
