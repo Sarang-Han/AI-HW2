@@ -153,36 +153,36 @@
 - Weight decay만 적용한 모델
 
 ```
-[Epoch 1] Train Loss: 1.8925, Acc: 0.3160 | Test Loss: 1.7647, Acc: 0.3402
-[Epoch 2] Train Loss: 1.6417, Acc: 0.3982 | Test Loss: 1.6201, Acc: 0.4042
-[Epoch 3] Train Loss: 1.5202, Acc: 0.4450 | Test Loss: 1.5657, Acc: 0.4087
-[Epoch 4] Train Loss: 1.4142, Acc: 0.4872 | Test Loss: 1.6840, Acc: 0.3998
-[Epoch 5] Train Loss: 1.3285, Acc: 0.5232 | Test Loss: 1.5655, Acc: 0.4269
-[Epoch 6] Train Loss: 1.2689, Acc: 0.5432 | Test Loss: 1.5793, Acc: 0.4365
-[Epoch 7] Train Loss: 1.2070, Acc: 0.5782 | Test Loss: 1.6672, Acc: 0.3976
-[Epoch 8] Train Loss: 1.1444, Acc: 0.5912 | Test Loss: 2.5780, Acc: 0.3068
-[Epoch 9] Train Loss: 1.0991, Acc: 0.6068 | Test Loss: 1.3235, Acc: 0.5180
-[Epoch 10] Train Loss: 1.0326, Acc: 0.6280 | Test Loss: 1.5586, Acc: 0.4573
-[Epoch 11] Train Loss: 0.9973, Acc: 0.6440 | Test Loss: 1.4001, Acc: 0.5106
-[Epoch 12] Train Loss: 0.9627, Acc: 0.6612 | Test Loss: 1.4605, Acc: 0.4895
-[Epoch 13] Train Loss: 0.9001, Acc: 0.6878 | Test Loss: 1.4015, Acc: 0.5157
-[Epoch 14] Train Loss: 0.8528, Acc: 0.6960 | Test Loss: 1.3694, Acc: 0.4971
-[Epoch 15] Train Loss: 0.7947, Acc: 0.7272 | Test Loss: 1.3230, Acc: 0.5325
-[Epoch 16] Train Loss: 0.7620, Acc: 0.7378 | Test Loss: 1.9103, Acc: 0.4307
-[Epoch 17] Train Loss: 0.7211, Acc: 0.7528 | Test Loss: 1.5213, Acc: 0.4901
-[Epoch 18] Train Loss: 0.6968, Acc: 0.7648 | Test Loss: 1.4423, Acc: 0.5117
-[Epoch 19] Train Loss: 0.6480, Acc: 0.7864 | Test Loss: 1.3961, Acc: 0.5320
-[Epoch 20] Train Loss: 0.5958, Acc: 0.8010 | Test Loss: 1.3366, Acc: 0.5502
-[Epoch 21] Train Loss: 0.5529, Acc: 0.8292 | Test Loss: 2.3333, Acc: 0.4071
-[Epoch 22] Train Loss: 0.5308, Acc: 0.8252 | Test Loss: 1.5204, Acc: 0.5096
-[Epoch 23] Train Loss: 0.4558, Acc: 0.8614 | Test Loss: 1.8744, Acc: 0.4629
-[Epoch 24] Train Loss: 0.4378, Acc: 0.8624 | Test Loss: 3.3271, Acc: 0.3573
-[Epoch 25] Train Loss: 0.4145, Acc: 0.8696 | Test Loss: 1.8462, Acc: 0.4858
-[Epoch 26] Train Loss: 0.3653, Acc: 0.8934 | Test Loss: 1.6156, Acc: 0.5250
-[Epoch 27] Train Loss: 0.3387, Acc: 0.9020 | Test Loss: 2.0711, Acc: 0.4444
-[Epoch 28] Train Loss: 0.3482, Acc: 0.8974 | Test Loss: 1.5227, Acc: 0.5309
-[Epoch 29] Train Loss: 0.2751, Acc: 0.9304 | Test Loss: 1.5278, Acc: 0.5470
-[Epoch 30] Train Loss: 0.2785, Acc: 0.9226 | Test Loss: 1.8650, Acc: 0.5083
+[Epoch 1] Train Loss: 1.8975, Acc: 0.3092 | Test Loss: 1.7585, Acc: 0.3513
+[Epoch 2] Train Loss: 1.6368, Acc: 0.3954 | Test Loss: 1.6014, Acc: 0.4131
+[Epoch 3] Train Loss: 1.5197, Acc: 0.4502 | Test Loss: 1.8882, Acc: 0.3239
+[Epoch 4] Train Loss: 1.4281, Acc: 0.4848 | Test Loss: 1.6438, Acc: 0.4002
+[Epoch 5] Train Loss: 1.3386, Acc: 0.5154 | Test Loss: 1.5530, Acc: 0.4467
+[Epoch 6] Train Loss: 1.2586, Acc: 0.5466 | Test Loss: 1.6717, Acc: 0.4246
+[Epoch 7] Train Loss: 1.1967, Acc: 0.5698 | Test Loss: 1.4894, Acc: 0.4496
+[Epoch 8] Train Loss: 1.1451, Acc: 0.5888 | Test Loss: 1.8762, Acc: 0.3841
+[Epoch 9] Train Loss: 1.0947, Acc: 0.6078 | Test Loss: 1.4133, Acc: 0.4810
+[Epoch 10] Train Loss: 1.0317, Acc: 0.6294 | Test Loss: 1.3600, Acc: 0.5155
+[Epoch 11] Train Loss: 0.9939, Acc: 0.6472 | Test Loss: 1.3829, Acc: 0.4932
+[Epoch 12] Train Loss: 0.9543, Acc: 0.6632 | Test Loss: 1.7911, Acc: 0.3897
+[Epoch 13] Train Loss: 0.8990, Acc: 0.6800 | Test Loss: 1.8999, Acc: 0.4042
+[Epoch 14] Train Loss: 0.8783, Acc: 0.6970 | Test Loss: 1.4244, Acc: 0.4930
+[Epoch 15] Train Loss: 0.8054, Acc: 0.7250 | Test Loss: 1.3996, Acc: 0.5051
+[Epoch 16] Train Loss: 0.7693, Acc: 0.7402 | Test Loss: 1.3262, Acc: 0.5417
+[Epoch 17] Train Loss: 0.7312, Acc: 0.7504 | Test Loss: 1.6323, Acc: 0.4992
+[Epoch 18] Train Loss: 0.6832, Acc: 0.7778 | Test Loss: 1.6628, Acc: 0.4927
+[Epoch 19] Train Loss: 0.6515, Acc: 0.7900 | Test Loss: 1.2726, Acc: 0.5559
+[Epoch 20] Train Loss: 0.6139, Acc: 0.8026 | Test Loss: 1.4900, Acc: 0.5135
+[Epoch 21] Train Loss: 0.5660, Acc: 0.8184 | Test Loss: 1.6217, Acc: 0.4988
+[Epoch 22] Train Loss: 0.5653, Acc: 0.8132 | Test Loss: 1.5622, Acc: 0.5161
+[Epoch 23] Train Loss: 0.5002, Acc: 0.8394 | Test Loss: 1.4231, Acc: 0.5301
+[Epoch 24] Train Loss: 0.4769, Acc: 0.8466 | Test Loss: 2.1874, Acc: 0.4446
+[Epoch 25] Train Loss: 0.4140, Acc: 0.8760 | Test Loss: 1.6329, Acc: 0.4949
+[Epoch 26] Train Loss: 0.3958, Acc: 0.8794 | Test Loss: 1.4323, Acc: 0.5505
+[Epoch 27] Train Loss: 0.3544, Acc: 0.9000 | Test Loss: 1.5364, Acc: 0.5310
+[Epoch 28] Train Loss: 0.3561, Acc: 0.8972 | Test Loss: 1.7501, Acc: 0.5113
+[Epoch 29] Train Loss: 0.3376, Acc: 0.9022 | Test Loss: 1.6150, Acc: 0.5404
+[Epoch 30] Train Loss: 0.2747, Acc: 0.9258 | Test Loss: 1.6381, Acc: 0.5204
 ```
 
 ---
@@ -192,36 +192,36 @@
 - run_experiment(dropout=True, use_aug=True, weight_decay=0.0)
 
 ```
-[Epoch 1] Train Loss: 1.8925, Acc: 0.3160 | Test Loss: 1.7647, Acc: 0.3402
-[Epoch 2] Train Loss: 1.6417, Acc: 0.3982 | Test Loss: 1.6201, Acc: 0.4042
-[Epoch 3] Train Loss: 1.5202, Acc: 0.4450 | Test Loss: 1.5657, Acc: 0.4087
-[Epoch 4] Train Loss: 1.4142, Acc: 0.4872 | Test Loss: 1.6840, Acc: 0.3998
-[Epoch 5] Train Loss: 1.3285, Acc: 0.5232 | Test Loss: 1.5655, Acc: 0.4269
-[Epoch 6] Train Loss: 1.2689, Acc: 0.5432 | Test Loss: 1.5793, Acc: 0.4365
-[Epoch 7] Train Loss: 1.2070, Acc: 0.5782 | Test Loss: 1.6672, Acc: 0.3976
-[Epoch 8] Train Loss: 1.1444, Acc: 0.5912 | Test Loss: 2.5780, Acc: 0.3068
-[Epoch 9] Train Loss: 1.0991, Acc: 0.6068 | Test Loss: 1.3235, Acc: 0.5180
-[Epoch 10] Train Loss: 1.0326, Acc: 0.6280 | Test Loss: 1.5586, Acc: 0.4573
-[Epoch 11] Train Loss: 0.9973, Acc: 0.6440 | Test Loss: 1.4001, Acc: 0.5106
-[Epoch 12] Train Loss: 0.9627, Acc: 0.6612 | Test Loss: 1.4605, Acc: 0.4895
-[Epoch 13] Train Loss: 0.9001, Acc: 0.6878 | Test Loss: 1.4015, Acc: 0.5157
-[Epoch 14] Train Loss: 0.8528, Acc: 0.6960 | Test Loss: 1.3694, Acc: 0.4971
-[Epoch 15] Train Loss: 0.7947, Acc: 0.7272 | Test Loss: 1.3230, Acc: 0.5325
-[Epoch 16] Train Loss: 0.7620, Acc: 0.7378 | Test Loss: 1.9103, Acc: 0.4307
-[Epoch 17] Train Loss: 0.7211, Acc: 0.7528 | Test Loss: 1.5213, Acc: 0.4901
-[Epoch 18] Train Loss: 0.6968, Acc: 0.7648 | Test Loss: 1.4423, Acc: 0.5117
-[Epoch 19] Train Loss: 0.6480, Acc: 0.7864 | Test Loss: 1.3961, Acc: 0.5320
-[Epoch 20] Train Loss: 0.5958, Acc: 0.8010 | Test Loss: 1.3366, Acc: 0.5502
-[Epoch 21] Train Loss: 0.5529, Acc: 0.8292 | Test Loss: 2.3333, Acc: 0.4071
-[Epoch 22] Train Loss: 0.5308, Acc: 0.8252 | Test Loss: 1.5204, Acc: 0.5096
-[Epoch 23] Train Loss: 0.4558, Acc: 0.8614 | Test Loss: 1.8744, Acc: 0.4629
-[Epoch 24] Train Loss: 0.4378, Acc: 0.8624 | Test Loss: 3.3271, Acc: 0.3573
-[Epoch 25] Train Loss: 0.4145, Acc: 0.8696 | Test Loss: 1.8462, Acc: 0.4858
-[Epoch 26] Train Loss: 0.3653, Acc: 0.8934 | Test Loss: 1.6156, Acc: 0.5250
-[Epoch 27] Train Loss: 0.3387, Acc: 0.9020 | Test Loss: 2.0711, Acc: 0.4444
-[Epoch 28] Train Loss: 0.3482, Acc: 0.8974 | Test Loss: 1.5227, Acc: 0.5309
-[Epoch 29] Train Loss: 0.2751, Acc: 0.9304 | Test Loss: 1.5278, Acc: 0.5470
-[Epoch 30] Train Loss: 0.2785, Acc: 0.9226 | Test Loss: 1.8650, Acc: 0.5083
+[Epoch 1] Train Loss: 2.0531, Acc: 0.2324 | Test Loss: 1.8728, Acc: 0.3095
+[Epoch 2] Train Loss: 1.8634, Acc: 0.2876 | Test Loss: 1.7334, Acc: 0.3425
+[Epoch 3] Train Loss: 1.8086, Acc: 0.3130 | Test Loss: 1.7956, Acc: 0.3231
+[Epoch 4] Train Loss: 1.7318, Acc: 0.3434 | Test Loss: 1.7417, Acc: 0.3601
+[Epoch 5] Train Loss: 1.6894, Acc: 0.3604 | Test Loss: 1.7846, Acc: 0.3362
+[Epoch 6] Train Loss: 1.6439, Acc: 0.3800 | Test Loss: 1.5836, Acc: 0.3980
+[Epoch 7] Train Loss: 1.6093, Acc: 0.3972 | Test Loss: 1.9040, Acc: 0.3229
+[Epoch 8] Train Loss: 1.5524, Acc: 0.4090 | Test Loss: 1.7865, Acc: 0.3411
+[Epoch 9] Train Loss: 1.5333, Acc: 0.4152 | Test Loss: 1.8764, Acc: 0.3414
+[Epoch 10] Train Loss: 1.5165, Acc: 0.4296 | Test Loss: 1.4860, Acc: 0.4279
+[Epoch 11] Train Loss: 1.4947, Acc: 0.4500 | Test Loss: 1.5700, Acc: 0.4380
+[Epoch 12] Train Loss: 1.4573, Acc: 0.4526 | Test Loss: 1.6442, Acc: 0.3979
+[Epoch 13] Train Loss: 1.4474, Acc: 0.4584 | Test Loss: 1.5861, Acc: 0.4166
+[Epoch 14] Train Loss: 1.4160, Acc: 0.4750 | Test Loss: 1.6152, Acc: 0.4356
+[Epoch 15] Train Loss: 1.4254, Acc: 0.4632 | Test Loss: 1.4571, Acc: 0.4685
+[Epoch 16] Train Loss: 1.3990, Acc: 0.4882 | Test Loss: 1.3564, Acc: 0.5009
+[Epoch 17] Train Loss: 1.3906, Acc: 0.4800 | Test Loss: 1.4595, Acc: 0.4658
+[Epoch 18] Train Loss: 1.3726, Acc: 0.5062 | Test Loss: 1.4401, Acc: 0.4667
+[Epoch 19] Train Loss: 1.3457, Acc: 0.4982 | Test Loss: 1.3617, Acc: 0.4968
+[Epoch 20] Train Loss: 1.3271, Acc: 0.5196 | Test Loss: 1.5048, Acc: 0.4612
+[Epoch 21] Train Loss: 1.3171, Acc: 0.5236 | Test Loss: 2.2510, Acc: 0.3571
+[Epoch 22] Train Loss: 1.2966, Acc: 0.5204 | Test Loss: 1.5995, Acc: 0.4528
+[Epoch 23] Train Loss: 1.3133, Acc: 0.5166 | Test Loss: 1.6327, Acc: 0.4492
+[Epoch 24] Train Loss: 1.3026, Acc: 0.5316 | Test Loss: 2.0476, Acc: 0.3729
+[Epoch 25] Train Loss: 1.2664, Acc: 0.5400 | Test Loss: 1.3116, Acc: 0.5287
+[Epoch 26] Train Loss: 1.2510, Acc: 0.5440 | Test Loss: 1.2485, Acc: 0.5461
+[Epoch 27] Train Loss: 1.2620, Acc: 0.5398 | Test Loss: 1.8818, Acc: 0.4202
+[Epoch 28] Train Loss: 1.2271, Acc: 0.5436 | Test Loss: 1.3823, Acc: 0.5272
+[Epoch 29] Train Loss: 1.2340, Acc: 0.5588 | Test Loss: 2.0934, Acc: 0.3921
+[Epoch 30] Train Loss: 1.2489, Acc: 0.5442 | Test Loss: 1.4094, Acc: 0.4961
 ```
 
 ## Experiment G: Data Augmentation + Weight Decay
